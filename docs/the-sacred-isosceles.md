@@ -1,8 +1,3 @@
----
-layout: default
-title: The Sacred Isosceles
-nav_order: 8
----
 
 # ▲ The Sacred Isosceles ▲
 

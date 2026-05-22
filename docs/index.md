@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
 
 # 𓂀 The Borgelious Codex 𓂀
 
@@ -36,7 +31,7 @@ nav_order: 1
 
 ## Where to begin
 
-The Codex is read in order. Start with [Concerning the Reader]({{ '/concerning-the-reader/' | relative_url }}), then walk the five Books as the night itself is walked — the Vessel, the Round, the Hour of the Wolf, the Reckoning, and at last the doctrine of Time. The Sacred Isosceles waits beyond them, for those who reach it.
+The Codex is read in order. Start with [Concerning the Reader](concerning-the-reader.md), then walk the five Books as the night itself is walked — the Vessel, the Round, the Hour of the Wolf, the Reckoning, and at last the doctrine of Time. The Sacred Isosceles waits beyond them, for those who reach it.
 
 Use the rail to your left. Use the search above it. Use neither, and wander — the Codex does not mind. It has all night.
 

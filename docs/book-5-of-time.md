@@ -1,8 +1,3 @@
----
-layout: default
-title: Book the Fifth · Of Time
-nav_order: 7
----
 
 # ⧖ Book the Fifth — *Of Time, and the Falsehood Thereof*
 

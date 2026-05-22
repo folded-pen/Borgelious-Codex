@@ -24,4 +24,4 @@
 
 Five Books — the Vessel, the Round, the Hour of the Wolf, the Reckoning, and Of Time — followed by the Sacred Isosceles, the Untranslatable Verses, and a Benediction.
 
-Built with Jekyll and the [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme.
+Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).

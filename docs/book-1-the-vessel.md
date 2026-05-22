@@ -1,8 +1,3 @@
----
-layout: default
-title: Book the First · Of the Vessel
-nav_order: 3
----
 
 # 📜 Book the First — *Of the Vessel and the Filling Thereof*
 

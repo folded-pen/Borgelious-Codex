@@ -1,8 +1,3 @@
----
-layout: default
-title: Book the Second · Of the Round
-nav_order: 4
----
 
 # 🍻 Book the Second — *Of the Round, and the Brotherhood of Men*
 

@@ -1,8 +1,3 @@
----
-layout: default
-title: Concerning the Reader
-nav_order: 2
----
 
 # ⚠ Concerning the Reader
 

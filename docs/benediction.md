@@ -1,8 +1,3 @@
----
-layout: default
-title: Benediction
-nav_order: 10
----
 
 # 🕯 Benediction
 

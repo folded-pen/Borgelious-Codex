@@ -1,8 +1,3 @@
----
-layout: default
-title: The Untranslatable Verses
-nav_order: 9
----
 
 # 🜂 The Untranslatable Verses
 

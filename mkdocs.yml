@@ -1,0 +1,48 @@
+site_name: The Borgelious Codex
+site_description: The collected drinking wisdom of the Prophet Borgelious. Few are ready.
+site_url: https://hardlygospel.github.io/Borgelious-Codex/
+
+theme:
+  name: material
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - footnotes
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Concerning the Reader: concerning-the-reader.md
+  - "Book the First · Of the Vessel": book-1-the-vessel.md
+  - "Book the Second · Of the Round": book-2-the-round.md
+  - "Book the Third · The Hour of the Wolf": book-3-hour-of-the-wolf.md
+  - "Book the Fourth · The Reckoning": book-4-the-reckoning.md
+  - "Book the Fifth · Of Time": book-5-of-time.md
+  - The Sacred Isosceles: the-sacred-isosceles.md
+  - The Untranslatable Verses: the-untranslatable-verses.md
+  - Benediction: benediction.md

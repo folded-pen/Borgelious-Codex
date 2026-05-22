@@ -1,8 +1,3 @@
----
-layout: default
-title: Book the Third · The Hour of the Wolf
-nav_order: 5
----
 
 # 🐺 Book the Third — *Of the Hour of the Wolf*
 

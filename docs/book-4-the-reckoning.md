@@ -1,8 +1,3 @@
----
-layout: default
-title: Book the Fourth · The Reckoning
-nav_order: 6
----
 
 # 🌅 Book the Fourth — *Of the Reckoning*
 
