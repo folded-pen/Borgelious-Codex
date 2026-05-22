@@ -6,6 +6,17 @@ nav_order: 4
 
 # 🍻 Book the Second — *Of the Round, and the Brotherhood of Men*
 
+```
+             ______             ______
+            |      |__       __|      |
+            | ~~~~ |  |     |  | ~~~~ |
+            | ~~~~ |  | (x) |  | ~~~~ |
+            | ~~~~ |  |     |  | ~~~~ |
+            | ~~~~ |__|     |__| ~~~~ |
+            |______|           |______|
+              ~  whose round is it, then?  ~
+```
+
 **II:ii** — He who buys the round buys not beer. He buys **standing in the eyes of men** — and a faint, lasting sorrow in the eyes of his bank.
 
 **II:vi** — Mark well who buys, and who slips always toward the bathroom at the precise moment the buying begins. The Codex names this man **the Shadow**. Do not be the Shadow.

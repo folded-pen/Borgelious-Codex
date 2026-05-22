@@ -8,6 +8,18 @@ nav_order: 5
 
 > *That hour, past midnight, when the world grows quiet and the decisions grow loud.*
 
+```
+                   (    (    (
+                    )    )    )         the sacred steam
+                   '    '    '
+              .-~~~~~~~~~~~~~~~~~~~-.
+             ( ░▒▓   the holy kebab   ▓▒░ )
+              '-~~~~~~~~~~~~~~~~~~~-'
+                  \                 /
+                   '-._.._.._.._.-'
+                ~  answer the kebab  ~
+```
+
 **III:iii** — At the Hour of the Wolf, the **kebab calls**. Answer the kebab. The kebab has never once led a man astray. Every *other* thing that hour suggests — ignore it utterly.
 
 **III:viii** — Thy phone, at 2am, is a **cursed artifact**. It will offer thee the names of people thou must not contact, and it will make this feel like a wonderful idea. Cast it into the deep. Or, at minimum, into the other room.

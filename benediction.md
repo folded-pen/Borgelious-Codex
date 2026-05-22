@@ -14,3 +14,20 @@ nav_order: 10
 > and declines, firmly, to specify.
 
 *Go now. Pour wisely. The Codex will not be repeating itself; it is fairly sure it already said all this once tonight.*
+
+```
+                          )
+                         (
+                          )
+                         .'.
+                        ( (~) )        the flame
+                         '._.'
+                          |=|
+                          |=|
+                         |===|
+                         |   |
+                         |   |
+                         |___|
+                  ~  the candle is lit;
+                     go gently  ~
+```

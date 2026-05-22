@@ -6,6 +6,23 @@ nav_order: 6
 
 # 🌅 Book the Fourth — *Of the Reckoning*
 
+```
+            .------------------------------.
+            |     ~  THE  RECKONING  ~     |
+            |    ( an itemised invoice )   |
+            |..............................|
+            |   the regret ........... ∞   |
+            |   greasy bread ......... 1   |
+            |   the great oath ....... 0   |
+            |   your dignity ......... ?   |
+            |..............................|
+            |   TOTAL .......  the whole   |
+            |                  of today    |
+            |   no refunds.  no appeal.    |
+            '-\/\/\/\/\/\/\/\/\/\/\/\/\/\-'
+              ~  the morning sends its bill  ~
+```
+
 **IV:i** — The morning brings the Reckoning. It is not a punishment. It is **the invoice**.
 
 **IV:v** — Thou shalt wake at the Hour of Regret and swear the Great Oath: *"Never Again."* Thou shalt break the Great Oath by sundown. This is not weakness. This is **the cycle**, and the cycle is holy.
