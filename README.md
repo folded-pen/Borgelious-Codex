@@ -40,11 +40,42 @@ The wisdom within was not *written* so much as **overheard**, across a long nigh
 
 The five Books are arranged as the night itself is arranged — the filling of the glass, the brotherhood, the deep hours, the Reckoning that follows, and at last the doctrine of Time. Read them in order. The night did not give you a choice; neither does the Codex.
 
+```
+        ________________________________________________
+    ,==/                                                \==,
+    |  |   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · |  |
+    |  |                                                 |  |
+    |  |    the words of the Prophet, as they were heard  |  |
+    |  |    — by a scribe who has sworn that his own      |  |
+    |  |    name be kept forever from this page.          |  |
+    |  |                                                 |  |
+    |  |   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · |  |
+    '==\________________________________________________/=='
+```
+
 Read slowly. Read aloud, if the hour permits. Read it to someone who did not ask.
 
 ---
 
 ## 📜 Book the First — *Of the Vessel and the Filling Thereof*
+
+```
+                       .-""""""""-.
+                     .'  _      _  '.
+                    /   (o)    (o)   \
+                   :        <        :
+                   :      \____/     :
+                    '.            .'
+                  .-''`'-.______.-'`''-.
+                 /    \   |    |   /    \
+                |      \  |    |  /      |
+                |       \ | [] | /       |     [] — his vessel,
+                |        \|    |/        |          ever in reach
+                 \        |    |        /
+                  '~~~~~~~|    |~~~~~~~'
+                          |____|
+                ~ the Prophet, robed and ready ~
+```
 
 **I:iv** — The fool asks *"how many?"* The wise man asks *"who is counting?"* — and upon learning that no one is counting, he is at peace.
 
@@ -167,6 +198,21 @@ Behold the holy figure. Few can hold it in the mind. Fewer can hold it in the mi
 ---
 
 ## 🜂 The Untranslatable Verses
+
+```
+                            /\
+                           /  \
+                          /    \
+                         / ╭──╮ \
+                        /  │ ◉ │  \
+                        \  ╰──╯  /
+                       /‾‾‾‾‾‾‾‾‾‾\
+                      /____________\
+                  \  ·  |   |   |  ·  /
+                   ✦  THE EYE IS OPEN  ✦
+                   ·  it sees the round  ·
+                   ·  it recalls none of it ·
+```
 
 *Some wisdom resists the page. It is recorded here as found.*
 
