@@ -15,6 +15,9 @@ plugins:
 color_scheme: dark
 search_enabled: true
 
+# Folder-style URLs (/book-3-hour-of-the-wolf/) instead of .html.
+permalink: pretty
+
 # The README is for the GitHub repo page only — keep it out of the built site.
 exclude:
   - README.md
